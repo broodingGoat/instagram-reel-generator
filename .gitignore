@@ -20,5 +20,21 @@ ENV/
 image_captions.json
 my_analysis.json
 
+# Media files
+*.mp3
+*.wav
+*.m4a
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+
+# Folders
+images/
+background_music/
+output/
+captions/
+
 # Temporary files
 temp_* 
