@@ -23,3 +23,6 @@ Automatically generate Instagram Reels from images using AI-powered captions and
 ## Output
 - `image_captions.json`: Analysis and captions for each image
 - `output_reel.mp4`: Generated Instagram reel 
+
+## Inspiration
+Post meditation thoughts by @arjitby 🧘🧘
