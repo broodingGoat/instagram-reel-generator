@@ -15,6 +15,7 @@ Automatically generate Instagram Reels from images using AI-powered captions and
 3. Copy `.env.example` to `.env` and add your API keys
 4. Place images in `images/` folder
 5. (Optional) Add background music to `background_music/` folder
+6. Requires Open AI API Keys and ngrok URL, to access locally stored images
 
 ## Usage
 1. Run image analysis: `python image_analyzer.py`
@@ -24,5 +25,6 @@ Automatically generate Instagram Reels from images using AI-powered captions and
 - `image_captions.json`: Analysis and captions for each image
 - `output_reel.mp4`: Generated Instagram reel 
 
-## Inspiration
-Post meditation thoughts by @arjitby 🧘🧘
+## Inspiration & Work
+- Post meditation ideation by @arjitby 🧘🧘
+- Generated entirely using OpenAI APIs (50 requests, 40k input tokens)and Cursor IDE (40/500 requests). Paid subscription + $0.22 for inital commit
